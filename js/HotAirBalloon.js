@@ -1,7 +1,7 @@
 var HotAirBalloon = function(field){
     this.field = field;
     this.pic = new Framework.Sprite("image/HAB.png");
-    this.cat = new Framework.Sprite('image/cat.png');
+    this.cat = new Framework.Sprite('image/Cat.png');
 
 
     this.init = function(){
